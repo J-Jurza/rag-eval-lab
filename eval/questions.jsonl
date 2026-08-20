@@ -1,0 +1,27 @@
+{"qid": "q01", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.15447v1"], "question": "What PR-AUC does LightGBM reach on the SAML-D synthetic transaction dataset?"}
+{"qid": "q02", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.15447v1"], "question": "Which work looks at catching the laundering of illicit funds moved through phone-based wallet payments in an African country?"}
+{"qid": "q03", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.16749v1"], "question": "What class-median Hurst estimates are reported for equity indices when measuring rough volatility across asset classes?"}
+{"qid": "q04", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.10852v1"], "question": "Once digital coins look statistically mature, do they actually behave like stock markets underneath?"}
+{"qid": "q05", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.07400v1"], "question": "How many manually authored question-answer records over SEC filings does the FinRank benchmark contain?"}
+{"qid": "q06", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.07400v1"], "question": "Is there an evaluation set that checks whether answers about company regulatory reports are backed by the correct supporting passages?"}
+{"qid": "q07", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.13340v1"], "question": "What expression is derived for fee implied volatility on Uniswap v3?"}
+{"qid": "q08", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.05373v1"], "question": "Which detector recovers all ten regulator-identified manipulation days in BANKNIFTY index options?"}
+{"qid": "q09", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.05373v1"], "question": "How might a market supervisor spot brief pump-and-crash abuse buried in millions of intraday derivatives quotes?"}
+{"qid": "q10", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.09378v1"], "question": "What power-law exponent range is found for EOA-involved stablecoin transaction values on Ethereum?"}
+{"qid": "q11", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.09378v1"], "question": "Are the sizes of dollar-pegged token transfers on chain heavy-tailed?"}
+{"qid": "q12", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.08634v1"], "question": "Which model achieves the highest accuracy on the Financial Touchstone benchmark over international annual reports?"}
+{"qid": "q13", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.08634v1"], "question": "Can freely downloadable language models keep up with proprietary ones at reading company reports?"}
+{"qid": "q14", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.12283v1"], "question": "What Sharpe ratio does the pure beta strategy with GPT-4o mini sentiment reach at 100 bps transaction costs?"}
+{"qid": "q15", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.04200v1"], "question": "Does being good at labelling the tone of financial headlines actually translate into tradable stock return predictions?"}
+{"qid": "q16", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.13096v1"], "question": "How many ODE solver steps does FlowLOB need to reach its best generation quality?"}
+{"qid": "q17", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.15097v1"], "question": "Which work prices insurance contracts paying out on accumulated heat, while allowing for persistent climate memory?"}
+{"qid": "q18", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.18195v1"], "question": "Which market making framework models order allocations with multivariate logistic-normal distributions and a deep-set encoder?"}
+{"qid": "q19", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.14014v1"], "question": "Do share prices move mostly before, at, or after a news story gets published?"}
+{"qid": "q20", "style": "paraphrase", "answerable": true, "relevant_doc_ids": ["2608.17715v1"], "question": "Can a language model turn technical credit model outputs into narratives a loan officer could act on?"}
+{"qid": "q21", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.10693v1"], "question": "Which study forecasts the implied volatility surface around FOMC meetings with a convolutional LSTM?"}
+{"qid": "q22", "style": "keyword", "answerable": true, "relevant_doc_ids": ["2608.04547v1"], "question": "Which attribution methods are compared for explaining differences between CCAR and CECL forecast runs?"}
+{"qid": "q23", "style": "unanswerable", "answerable": false, "relevant_doc_ids": [], "question": "What is the current Reserve Bank of Australia cash rate target?"}
+{"qid": "q24", "style": "unanswerable", "answerable": false, "relevant_doc_ids": [], "question": "Which broker offers the lowest fees for retail options trading in the United States?"}
+{"qid": "q25", "style": "unanswerable", "answerable": false, "relevant_doc_ids": [], "question": "What did the S&P 500 return in calendar year 2019?"}
+{"qid": "q26", "style": "unanswerable", "answerable": false, "relevant_doc_ids": [], "question": "What margin requirements does the CME set for WTI crude oil futures?"}
+{"qid": "q27", "style": "unanswerable", "answerable": false, "relevant_doc_ids": [], "question": "Who won the 2025 Nobel Prize in economics?"}
