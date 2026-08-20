@@ -1,0 +1,16 @@
+# secrets: the Gemini key lives here and must never be committed
+.env
+
+# environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# local artifacts that are cheap to regenerate and pollute diffs
+data/cache/
+*.egg-info/
+build/
+dist/
+.DS_Store

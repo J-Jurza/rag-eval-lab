@@ -1,0 +1,28 @@
+[project]
+name = "rag-eval-lab"
+version = "0.1.0"
+description = "A small RAG pipeline over arXiv quantitative-finance abstracts, built so that retrieval and generation are evaluated separately."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+# Core stays tiny on purpose: BM25, chunking, and every metric run on numpy alone,
+# so the evaluation logic is testable in CI without pulling torch.
+dependencies = ["numpy>=1.26"]
+
+[project.optional-dependencies]
+# Dense retrieval needs an embedding model; kept optional so a clone can run
+# the lexical pipeline and all tests without a multi-hundred-MB install.
+embed = ["sentence-transformers>=3.0"]
+# Generation and the LLM judge need an API key; everything else does not.
+gen = ["google-genai>=1.0", "python-dotenv>=1.0"]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
