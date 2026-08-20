@@ -8,6 +8,10 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 
+# the corpus text is not redistributed; rebuild it from the committed
+# manifest with: python -m rag_eval_lab.loader --refetch
+data/corpus.jsonl
+
 # local artifacts that are cheap to regenerate and pollute diffs
 data/cache/
 *.egg-info/
